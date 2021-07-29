@@ -2172,7 +2172,7 @@ input::-webkit-input-placeholder {
 .a11y-font-scaled-down .cozy-3raOZG.wrapper-2a6GCs,
 .a11y-font-scaled-down .compact-T3H92H.wrapper-2a6GCs {
   margin-left: var(--text-indent);
-  margin-right: var(--text-right-indent);;
+  margin-right: 72px;
   padding: 8px;
   padding-right: 8px; }
 .a11y-font-scaled-down .avatar-1BDn8e {
