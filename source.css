@@ -61,7 +61,7 @@
   --scrollbar-width: 10px;
   --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
   --font-display: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important; 
-  --message-pad: 500px;
+  --message-pad: auto;
 	}
 /*
  *
