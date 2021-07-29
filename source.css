@@ -61,7 +61,7 @@
   --scrollbar-width: 10px;
   --font-primary: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important;
   --font-display: Whitney,"Helvetica Neue",Helvetica,Arial,sans-serif !important; 
-  --text-right-indent: 240px;
+  --message-pad: 500px;
 	}
 /*
  *
@@ -2001,7 +2001,7 @@ input::-webkit-input-placeholder {
   border-radius: var(--messages-radius); }
   .wrapper-2a6GCs.cozy-3raOZG, .wrapper-2a6GCs.compact-T3H92H {
     margin-left: 76px;
-    margin-right: 24px;
+    margin-right: var(--message-pad);
     padding: var(--messages-padding);
     padding-right: 8px !important;
     border: 2px solid transparent; }
